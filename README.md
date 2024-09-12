@@ -1,2 +1,3 @@
 # qb-ck-character-discord
-İster oyun içi isterseni discord üzerinden oyuncunun id sini yazarak karaktere ck atabilirsiniz 
+Merhabalar 
+İster oyun içi isterseniz discord üzerinden oyuncunun id sini yazarak karaktere ck atabilirsiniz 
